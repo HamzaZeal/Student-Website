@@ -1,5 +1,5 @@
 
-var API_URL = 'PASTE_YOUR_WEB_APP_URL_HERE';
+var API_URL = https://script.google.com/macros/s/AKfycbwt0tZ6dGETckmC4vfia9XRF9k0_UT0k8pLk_4fZv2ud-0QTWpSm4AtAfXnywNYBjs/exec;
 
 var KEYS = ['srNo', 'rollNo', 'name', 'tenth', 'twelfth', 'sem1', 'sem2'];
 
