@@ -1,5 +1,5 @@
 
-var API_URL = https://script.google.com/macros/s/AKfycbwt0tZ6dGETckmC4vfia9XRF9k0_UT0k8pLk_4fZv2ud-0QTWpSm4AtAfXnywNYBjs/exec;
+var API_URL = https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnQFoMav8bVQ-1DsSNxc5OQMuzjARt_Dv-E5TZJx8hYFXBk8tHzpmvgb-xQpN0csfKv5ulVuOSKgfvXXRbt6n2cb3d-a1GonbdiHQGItBCY0kvl4Z9VqHdpuH-YIYMpzWmRvKCAYDIQ-TaQAx7YZInfTD0uRG1sv58nLFENdlVAVh9lLYu2v6nBJbhx_BCxHlMHfVFXKbxhV_1Nfc1hqxsgyBAkrAwsBXArfF60LeQJTalcs1L_07NnIKieLYui-AvlAQp7fzluaNSCHNA0&lib=Mkogtpo6SKnvlJXS5oYzSVXpucjUGXVqE;
 
 var KEYS = ['srNo', 'rollNo', 'name', 'tenth', 'twelfth', 'sem1', 'sem2'];
 
